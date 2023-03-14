@@ -6,6 +6,15 @@ This repository contains the files for an "Araknoid" style game.
 The game includes four levels. In each level, the paddle size and speed and number of balls differ such that the difficuty is harder in each sequential level.  
 in order to beat each level, the player must break all of the blocks with the balls.
 
-#### The first level
-The first level is an introduction to the game. the player can move around while the ball is flown directly towards the only block present:
-![The first level](/Araknoid-Game/first_level.png)
+#### The first level 
+<img src="first_level.png"  width="189" height="150">
+
+#### The second level
+<img src="second_level.png"  width="189" height="150">
+
+#### The third level
+<img src="third_level.png"  width="189" height="150">
+
+#### The fourth level
+<img src="fourth_level.png"  width="189" height="150">
+
