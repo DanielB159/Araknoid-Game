@@ -8,4 +8,4 @@ in order to beat each level, the player must break all of the blocks with the ba
 
 #### The first level
 The first level is an introduction to the game. the player can move around while the ball is flown directly towards the only block present:
-![The first level](/first level.png "Text to show on mouseover")
+![The first level](/Araknoid-Game/first_level.png)
