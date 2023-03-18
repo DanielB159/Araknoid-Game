@@ -10,9 +10,7 @@ in order to beat each level, the player must break all of the blocks with the ba
 By developing this project, i have gained experience in the following areas:  
 - *OOP* principles such as **encapsulation** and **polymorphism** (using inheritance and interfaces).
 - GUI design
-
-## Design Patterns
-- Listener / Observer Pattern
+- Implementing Listener / Observer Design Pattern.
 
 #### The first level 
 <img src="first_level.png"  width="189" height="150">
